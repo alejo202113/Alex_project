@@ -2,8 +2,8 @@
 ### Date created
 Include the date you created this project and README file.
 
-### Project Title
-Alex project
+### Project Title documentation branch
+Alex project - change to do to documentation branch
 
 ### Description
 Bike Share Data Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
@@ -43,4 +43,6 @@ bikeshare.py and Jupiter notebook to check the code
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted. https://classroom.udacity.com
+
+### Refactoring changes, so let´s continue
 
