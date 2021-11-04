@@ -44,5 +44,5 @@ bikeshare.py and Jupiter notebook to check the code
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted. https://classroom.udacity.com
 
-### Refactoring changes, so let´s continue
+### this is  a readme of the documentation branch
 
